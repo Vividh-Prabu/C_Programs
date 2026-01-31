@@ -86,6 +86,14 @@ A curated collection of **C programs** covering fundamentals, data structures, a
 
 ---
 
+### 🔹 Stack, Queue & Deque (Updated)
+* Stack.c  
+* Queue.c  
+* Circular Queue.c  
+* Double Ended Queue.c  
+* Infix to Postfix.c  
+
+
 ### 🔹 Memory Management
 
 * `Calloc.c`
