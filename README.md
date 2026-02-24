@@ -1,6 +1,6 @@
 # C Programs Collection
 
-A curated collection of **C programs** covering fundamentals, data structures, algorithms, and common problem‑solving patterns. This repository is mainly intended for **practice, learning, and revision**.
+A curated collection of **C programs** covering fundamentals, data structures, algorithms, and common problem-solving patterns. This repository is mainly intended for **practice, learning, and revision**.
 
 ---
 
@@ -86,13 +86,30 @@ A curated collection of **C programs** covering fundamentals, data structures, a
 
 ---
 
-### 🔹 Stack, Queue & Deque (Updated)
-* Stack.c  
-* Queue.c  
-* Circular Queue.c  
-* Double Ended Queue.c  
-* Infix to Postfix.c  
+### 🔹 Stack, Queue & Deque
 
+* `Stack.c`
+* `Queue.c`
+* `Circular Queue.c`
+* `Double Ended Queue.c`
+* `Infix to Postfix.c`
+
+---
+
+### 🔹 Linked List Programs
+
+* `Singly Linked List.c`
+* `Doubly Linked List.c`
+
+---
+
+### 🔹 Tree Data Structure
+
+* `Binary Search Tree.c`
+* `BST Insertion.c`
+* `BST Deletion.c`
+
+---
 
 ### 🔹 Memory Management
 
@@ -125,9 +142,18 @@ A curated collection of **C programs** covering fundamentals, data structures, a
 
 ## 🛠️ How to Run
 
+Compile and run any C program using:
+
 ```bash
 gcc filename.c -o output
 ./output
+```
+
+Example:
+
+```bash
+gcc Stack.c -o stack
+./stack
 ```
 
 ---
@@ -135,8 +161,10 @@ gcc filename.c -o output
 ## 🎯 Purpose
 
 * Strengthen **C programming fundamentals**
-* Prepare for **college exams & interviews**
-* Quick revision of **DSA basics**
+* Practice **Data Structures and Algorithms**
+* Prepare for **college exams, lab exams & interviews**
+* Improve **problem-solving skills**
+* Quick revision of **core programming concepts**
 
 ---
 
@@ -146,4 +174,6 @@ gcc filename.c -o output
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a star!
+## 🌟 Support
+
+If you find this repository helpful, consider giving it a **star ⭐** on GitHub!
